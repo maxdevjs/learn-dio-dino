@@ -6,6 +6,10 @@ Code for `Recriando o famoso jogo do dinossauro sem internet`
 
 ## Instructions
 
+### Play the game
+
+[maxdevjs.github.io/learn-dio-dino](https://maxdevjs.github.io/learn-dio-dino/)
+
 ### How to play
 
 `Press space to start and to jump.`
